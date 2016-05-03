@@ -1,0 +1,69 @@
+<div class="m-index">
+<div class="m-index-body"></div>
+<!-- <div class="index-container"> -->
+<!-- 	<header>
+		<div>设计本</div>
+		<div></div>
+		<div class="yo-ico">&#xe640;</div>
+	</header>
+	<section>
+		<div>
+			<img src="./img/banner12.png"/>
+		</div>		
+	</section>
+	<section class="section2">
+		<i><img src="./img/list1.png"/></i>
+		<i><img src="./img/list1.png"/></i>
+		<i><img src="./img/list1.png"/></i>
+	</section>
+	<section>
+		<h3><span>热门推荐</span><span></span><span>全部案例></span></h3>
+		<div>
+			<div><img src="./img/sec1.png"></div>
+			<div>
+				<h4>鸿鹄作品：</h4>
+				<p>120㎡/暂无/20图</p>
+			</div>
+		</div>
+
+		<div>
+			<div><img src="./img/sec1.png"></div>
+			<div>
+				<h4>鸿鹄作品：</h4>
+				<p>120㎡/暂无/20图</p>
+			</div>
+		</div>
+		<div>
+			<div><img src="./img/sec1.png"></div>
+			<div>
+				<h4>鸿鹄作品：</h4>
+				<p>120㎡/暂无/20图</p>
+			</div>
+		</div>
+	</section> -->
+	<footer>
+		<ul>
+			<li class="active">
+				<i class="yo-ico">&#xe609;</i>
+				<b>案例</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe608;</i>
+				<b>图库</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe604;</i>
+				<b>问答</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe640;</i>
+				<b>发现</b>
+			</li>
+			<li>
+				<i class="yo-ico">&#xe9a7;</i>
+				<b>我的</b>
+			</li>
+		</ul>
+	</footer>
+<!-- </div> -->
+</div>
